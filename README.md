@@ -1,4 +1,4 @@
-# Reset MACOS Network Interface
+# Reset MACOS Network Interface Utility
 
 Simple bash script to reset the network interface on MACOS which is 
 useful if you want to restore your network connectivity to your
